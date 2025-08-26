@@ -13,7 +13,7 @@ body {
   padding: 40px 20px;
 
   /* Fondo con imagen */
-  background: url("tu-foto.jpg") no-repeat center center fixed;
+  background: url("https://photo620x400.mnstatic.com/6c30e49d9ae070c430cb915aac19db92/la-bombonera-_-estadio-alberto-j-armando.jpg") no-repeat center center fixed;
   background-size: cover;
 
   /* Capa oscura encima de la imagen para que se lean bien los textos */
@@ -88,6 +88,7 @@ footer {
   text-align: center;
   padding: 15px;
 }
+
 
 
 
